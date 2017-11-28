@@ -1,5 +1,5 @@
 {
-  "name": "vue+axios+nedb",
+  "name": "vue-axios-nedb",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
