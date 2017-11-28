@@ -1,0 +1,12 @@
+{
+  "name": "vue+axios+nedb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.13"
+  },
+  "scripts": {
+    "bs": "browser-sync start -s 'public' -f 'public'"
+  }
+}
